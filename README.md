@@ -1,4 +1,8 @@
-## Hi there 👋
+ Hi there, My name is JERRY MOMANYI 👋
+
+- 🔭 I’m currently working on Data Analysis
+- 🌱 I’m currently learning Python Programming
+- 👯 I’m looking to collaborate on Data analysis projects
 
 <!--
 **spring-er/spring-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
